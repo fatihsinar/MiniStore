@@ -1,2 +1,4 @@
 product işlemler...
 remoteda değişiklikler eklendi
+
+bazı öz. eklendi: fth
